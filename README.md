@@ -59,7 +59,8 @@ My primary motivation was:
 - Implement all pure virtual functions
 - Implement all your device specific functions
 
-<img src="http:E:\Projekte\GhAstro\ASCOM\Alpaca\ESP32AlpacaDevices\doc\Design.png" width="400">
+
+<img src="https://github.com/npeter/ESP32AlpacaDevices/blob/main/doc/Design.png" width="400">
 <br><br>
 
 ## Useful Links
