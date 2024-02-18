@@ -31,13 +31,15 @@ My primary motivation was:
 - Support for several client connections per device 
 - Pass ASCOM Conform Universal validation with zero errors and issues (ConformU 2.1.0)
 - Addapted for ArduinoJason V7 (https://github.com/bblanchon/ArduinoJson.git)
-- Configuration via dynamicaly created webpages as developed by (https://github.com/elenhinan/ESPAscomAlpacaServer)
+
 - Test with N.I.N.A 3.0-Beta - with ASCOM Alpaca Discovery (https://nighttime-imaging.eu/)
 - Suported ASCOM devices:
     - CoverCalibrator.h, CoverCalibrator.cpp
     - ObservingConditions.h, ObservingConditions.cpp
     - Switch.h, Switch.cpp
     - In future Focuser.h, Focuser.cpp
+- Configuration via dynamicaly created webpages as developed by (https://github.com/elenhinan/ESPAscomAlpacaServer)
+<img src="https://github.com/npeter/ESP32AlpacaDevices/blob/main/doc/Setup.png" width="600">
 <br><br>
 ## Remarks
 - For this project "platformio" (https://platformio.org/) is used as development system
@@ -59,8 +61,9 @@ My primary motivation was:
 - Implement all pure virtual functions
 - Implement all your device specific functions
 
-[ESP32AlpacaDevices class diagram]("https://github.com/npeter/ESP32AlpacaDevices/blob/main/doc/Design.png")
+
 <img src="https://github.com/npeter/ESP32AlpacaDevices/blob/main/doc/Design.png" width="600">
+<br>ESP32AlpacaDevices class diagram
 <br><br>
 
 ## Useful Links
