@@ -12,13 +12,15 @@ This library is more or less a new implementation. But it's primary based on the
 - https://github.com/elenhinan/ESPAscomAlpacaServer
 <br>
 <br>
-## Motivation
 
-My primary motivation was:
+## Motivation
+My primary motivation was: 
+<br>
 - To have a state of the art compact and robust platform for the rework of my ESP32 based devices with propritary network protocols and .NET based ASCOM drivers.
 - Learn and understand [ASCOM Alpaca API](https://ascom-standards.org/api/#/)
 - Work with embedded systems and web technologies
 <br><br>
+
 ## Features
 - Easy to use platform for Alpaca Self Contained Device & Driver
 - Templates for CoverCalibrator, Switch and ObservingConditions (Focuser in future)
@@ -41,6 +43,7 @@ My primary motivation was:
 - Configuration via dynamicaly created webpages as developed by (https://github.com/elenhinan/ESPAscomAlpacaServer)
 <img src="https://github.com/npeter/ESP32AlpacaDevices/blob/main/doc/Setup.png" width="600">
 <br><br>
+
 ## Remarks
 - For this project "platformio" (https://platformio.org/) is used as development system
 <br><br>
@@ -63,7 +66,7 @@ My primary motivation was:
 
 
 <img src="https://github.com/npeter/ESP32AlpacaDevices/blob/main/doc/Design.png" width="600">
-<br>ESP32AlpacaDevices class diagram
+ESP32AlpacaDevices class diagram
 <br><br>
 
 ## Useful Links
@@ -72,9 +75,9 @@ My primary motivation was:
 - [ASCOM Documentation Center](https://ascom-standards.org/Documentation/Index.htm#dev)
 - [platformio](https://docs.platformio.org/en/latest/what-is-platformio.html)
 - [ArduinoJson](https://arduinojson.org/)
+<br><br>
 
 ## Open Topics
-
 - Concept for AlpacaConfig.h
 - Support of ASCOM Methods
     - action
