@@ -59,7 +59,7 @@ My primary motivation was:
 - Implement all pure virtual functions
 - Implement all your device specific functions
 
-
+[ESP32AlpacaDevices class diagram]("https://github.com/npeter/ESP32AlpacaDevices/blob/main/doc/Design.png")
 <img src="https://github.com/npeter/ESP32AlpacaDevices/blob/main/doc/Design.png" width="600">
 <br><br>
 
