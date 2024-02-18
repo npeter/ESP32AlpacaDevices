@@ -60,7 +60,7 @@ My primary motivation was:
 - Implement all your device specific functions
 
 
-<img src="https://github.com/npeter/ESP32AlpacaDevices/blob/main/doc/Design.png" width="400">
+<img src="https://github.com/npeter/ESP32AlpacaDevices/blob/main/doc/Design.png" width="600">
 <br><br>
 
 ## Useful Links
