@@ -31,7 +31,7 @@
     ],
     "dependencies": {
         "bblanchon/ArduinoJson": "^7.0.2",
-        "me-no-dev/ESPAsyncWebServer": "*"
+        "https://github.com/mathieucarbou/ESPAsyncWebServer":"*"
     },
     "build": {
         "libCompatMode": "soft"

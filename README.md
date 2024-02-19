@@ -51,11 +51,10 @@ My primary motivation was:
 - For this project "platformio" (https://platformio.org/) is used as development system
 <br><br>
 - Essential libraries:
-    - https://github.com/me-no-dev/ESPAsyncWebServer
-        - ESP AsyncTCP
-        - ESP_DoubleResetDetector
-    - ArduinoJSON
-    - ESP_WifiManager
+    - Library: ESPAsyncWebServer:
+        - https://github.com/mathieucarbou/ESPAsyncWebServer used
+        - ~~https://github.com/me-no-dev/ESPAsyncWebServer~~ no more supported
+    - Example: ESP_WifiManager
 <br><br>
 - Webpage data has to be stored in the SPIFF-Filesystem of the ESP32
     - platformio/Build Filesystem image
