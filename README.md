@@ -31,6 +31,9 @@ My primary motivation was:
 
 - Multi ASCOM devices on one ESP32
 - Support for several client connections per device 
+- Connection watch dog 
+    - if no request for a certain time (ALPACA_CLIENT_CONNECTION_TIMEOUT_SEC)
+    - impliziet device specific disconnect 
 - Pass ASCOM Conform Universal validation with zero errors and issues (ConformU 2.1.0)
 - Addapted for ArduinoJason V7 (https://github.com/bblanchon/ArduinoJson.git)
 
